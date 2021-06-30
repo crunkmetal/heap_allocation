@@ -1,17 +1,3 @@
-/*
-Assignment - Smart Pointers
-[] Create a program that:-
-    - demos allocation and deallocation of memory to 
-    - the using pointers of 4 primitive data types of your choice
-    - with the new and delete keywords.
-[] Create 5 objects
-    - with the new keyword for your example too.
-[] Over comment your code.
-[] Explain to the user in cout statements:
-    - allocation and deallocation of memory with examples.
-[] Make a great UX!
-*/
-
 #include <iostream>             // for console input/output
 #include "Intro.h"              // using (in this file) info from Intro class
 #include "Vehicle.h"            // using (in this file) info from Vehicle class
