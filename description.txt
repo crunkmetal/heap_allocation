@@ -1,0 +1,23 @@
+  Calculating Your Car's Miles per Gallon (MPG)
+
+  FILL UP AND RECORD
+  - Fill up your gas tank all the way.
+  - If your car has a trip odometer - reset it.
+    - OR record the master odometer mileage.
+  - Drive your car as you normally would and...
+    - after using at least half a tank of gas...
+  - Get to the gas station and fill your tank again.
+  - Record the amount of gas it took to refill the tank.
+  - Record the price per gallon of gas.
+  - Record the elapsed trip miles on trip odometer
+    - or record the new odometer mileage.
+
+  CALCULATE
+  - Subtract the original odometer reading from the new one.
+  - Divide the miles traveled by the amount of gallons
+    - it took to refill the tank. 
+  - The result will be your car’s average MPG 
+    - (miles per gallon) yield for that driving period.
+
+  Here's the formula: miles driven/gallons used = MPG
+
